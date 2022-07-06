@@ -2,6 +2,6 @@
 first Repository
 Class test{
   public static void main(String[] arrs){
-  111111
+  system.out.print(.........)
   }
 }
